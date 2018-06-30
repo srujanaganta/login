@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="string_choose_file">choose file</string>
+</resources>
